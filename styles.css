@@ -7,7 +7,7 @@
 }
 
 .sidebar{
-    background-color: rgb(168, 165, 165);
+    background-color: rgb(51, 50, 50);
     width: 434px;
     font-family: "Fira Sans", sans-serif;
     height: 100vh;
@@ -25,11 +25,11 @@
 
 .sidebar nav li a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .main{
-    /* background-color: yellow; */
+    background-color: black;
     width: 90vw;
 }
 
@@ -47,6 +47,7 @@
 }
 
 .devinfo{
+    color: white;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -101,10 +102,11 @@
 }
 
 .devpic img{
-    height: 58vh;
+    height: 70vh;
 }
 
 .contactform{
+    color: white;
     padding: 0 34px;
     padding-top: 144px;
     font-family: "Fira Sans", sans-serif;
