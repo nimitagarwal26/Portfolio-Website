@@ -13,8 +13,8 @@ function Github() {
         username="nimitagarwal26"
         blockSize={15}
         blockMargin={5}
-        color="#c084f5"
-        fontSize={16}
+        // color="#c084f5"
+        fontSize={20}
       />
     </Row>
   );
