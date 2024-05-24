@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and MySQL. </b>
+                <b className="purple"> C, C++, Java, Python and MySQL. </b>
               </i>
               <br />
               <br />
@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Machine Learning.
                 </b>
               </i>
               <br />
@@ -49,7 +49,9 @@ function Home2() {
               &nbsp; like
               <i>
                 <b className="purple"> React.js and Next.js</b>
-              </i>
+                <br />
+                Currently I am learning how to build <b className="purple">Machine Learning Models.</b>
+              </i> 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
